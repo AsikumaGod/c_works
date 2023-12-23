@@ -1,4 +1,5 @@
 #include <stdio.h>
+// function adds two integers
 int mul_tiply(int x, int y)
 {
     int result;
