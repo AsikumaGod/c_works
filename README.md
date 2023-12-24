@@ -1,4 +1,4 @@
-<h4>Intro Folder<h4>
+<h4>Intro Folder</h4>
 hello.c - This program prints "Hello World"</br>
 exer2.c - This program prints out the numerical values of z and Z</br>
 exer3.c - This program prints out characters using their ASCII codes</br>
