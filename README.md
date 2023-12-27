@@ -9,3 +9,8 @@ exer6.c - This program calculates the Circumference of a circle</br>
 exer7.c - This program calculates the hypotenuse of a Right-angled triangle</br>
 exer8.c - This program prints messages based on your grade using switch and case</br>
 exer9.c - This program converts temperature from Degree Celcius to Fahrenheit and vice versa</br>
+
+<h4>Functions Folder</h4>
+exer1.c - This program creates a function that multiplies two integers</br>
+exer2.c - This program creates a function that prints some text</br>
+exer3.c - This program creates a function that adds two integers</br>
